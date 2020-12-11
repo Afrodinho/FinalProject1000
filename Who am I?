@@ -1,0 +1,9 @@
+Aboutme.html
+print('aboutme.py')
+print('Kaden Marshall')
+print('I am 22 years old and my birthday is October 22nd')
+print('I was born in Columbia, MO')
+print('Today is October 2nd')
+print('My favorite color is red')
+print('My shoe size is 12')
+print('Go Cardinals')
