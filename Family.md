@@ -6,14 +6,15 @@ I have a pretty small family. The family I have lived with most of my life is ju
 - Mom
 - Malia
 
+![](https://user-images.githubusercontent.com/54389183/101971433-eaaafc80-3bf6-11eb-813b-a34391e7cb6a.JPG)
 
 #### Links to other pages
-[ReadMe/Homepage](link) 
+[ReadMe/Homepage](README.MD) 
 
-[Things to do in Columbia]()
+[Things to do in Columbia](ThingstodoinColumbia.md)
 
-[Video Games]()
+[Video Games](VideoGames.md)
 
-[Family]()
+[Family](Family.md)
 
-[Clothing]()
+[Clothing](Clothing.md)
