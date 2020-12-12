@@ -12,10 +12,10 @@ Soccer is probably my favorite sport which is surprising because I did not start
 #### Links to other pages
 [ReadMe/Homepage](README.MD) 
 
-[Things to do in Columbia](ThingstodoinColumbia.MD)
+[Things to do in Columbia](ThingstodoinColumbia.md)
 
-[Video Games](VideoGames.MD)
+[Video Games](VideoGames.md)
 
-[Family](FAMILY.MD)
+[Family](FAMILY.md)
 
-[Clothing](CLOTHING.MD)
+[Clothing](CLOTHING.md)
