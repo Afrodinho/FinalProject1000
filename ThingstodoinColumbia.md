@@ -14,11 +14,6 @@ Since I was born in [Columbia](https://upload.wikimedia.org/wikipedia/commons/th
       | Made| A|
       | Pointless | Table |
 
-      <body>
-      I _know_ how to do all of this
-      </body>
-      I **learned** it easily
-
       <html>
         <head>
         </head>
