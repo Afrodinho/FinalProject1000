@@ -1,6 +1,6 @@
 # Things to do in Columbia
 
-Since I was born in Columbia you'd *think* I'd know some of the best things to do around here. Well I **don't**. However I will provide a list of some things I enjoy doing in Columbia.
+Since I was born in [Columbia](https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_Columbia%2C_Missouri.svg/1280px-Flag_of_Columbia%2C_Missouri.svg.png) you'd *think* I'd know some of the best things to do around here. Well I **don't**. However I will provide a list of some things I enjoy doing in Columbia.
 
 - Chill out at [Lakota Coffee](https://www.lakotacoffee.com)
 - Watch [Mizzou](https://mutigers.com/feature/MizzouTickets) sporting events
