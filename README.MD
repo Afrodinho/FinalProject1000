@@ -1,5 +1,7 @@
 # Kaden Marshall Home Page
 
+![](images/me.png)
+
 #### Fun Facts About Me
 I once made a block of code in python. Lets see how it works in Markdown!
 
