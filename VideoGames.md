@@ -6,13 +6,13 @@ In my free time I enjoy playing **video games**. I like to play both single *and
 
 ### My favorite Games of All Time
 
-- Final Fantasy VII
-- The Legend of Zelda: Orcarina of Time
-- Fallout: New Vegas
-- The Elder Scrolls V: Skyrim
-- The Witcher 3
-- Any Assassin's Creed game
-- Mass Effect Trilogy
+- [Final Fantasy VII](https://en.wikipedia.org/wiki/Final_Fantasy_VII)
+- [The Legend of Zelda: Orcarina of Time](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Ocarina_of_Time)
+- [Fallout: New Vegas](https://en.wikipedia.org/wiki/Fallout:_New_Vegas)
+- [The Elder Scrolls V: Skyrim](https://en.wikipedia.org/wiki/The_Elder_Scrolls_V:_Skyrim)
+- [The Witcher 3](https://en.wikipedia.org/wiki/The_Witcher_3:_Wild_Hunt)
+- [Any Assassin's Creed game](https://en.wikipedia.org/wiki/Assassin%27s_Creed)
+- [Mass Effect Trilogy](https://en.wikipedia.org/wiki/Mass_Effect)
 
 #### Links to other pages
 [ReadMe/Homepage](README.MD) 
