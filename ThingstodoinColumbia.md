@@ -7,13 +7,15 @@ Since I was born in Columbia you'd think I'd know some of the best things to do 
 - Enjoying local [restaurants](https://www.tripadvisor.com/Restaurants-g44257-Columbia_Missouri.html) 
 - Walk around one of the many [parks](https://www.como.gov/parksandrec/)
 
+![](https://user-images.githubusercontent.com/54389183/101971123-91da6480-3bf4-11eb-8cf4-e40ba16cd4cb.jpeg)
+
 #### Links to other pages
-[ReadMe/Homepage](link) 
+[ReadMe/Homepage](README.MD) 
 
-[Things to do in Columbia]()
+[Things to do in Columbia](ThingstodoinColumbia.md)
 
-[Video Games]()
+[Video Games](VideoGames.md)
 
-[Family]()
+[Family](Family.md)
 
-[Clothing]()
+[Clothing](Clothing.md)
