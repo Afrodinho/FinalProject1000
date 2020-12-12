@@ -1,6 +1,6 @@
 # Family
 
-I have a pretty small family. The family I have lived with most of my life is just my mom and my two sisters. I am the eldest child. I have a 19 year old sister and a 13 year old sister. I'm going to rank them from favorite to least favorite.
+I have a pretty small [family](https://en.wikipedia.org/wiki/Family). The family I have lived with most of my life is just my mom and my two sisters. I am the eldest child. I have a 19 year old sister and a 13 year old sister. I'm going to rank them from favorite to least favorite.
 
 - Caiya
 - Mom
