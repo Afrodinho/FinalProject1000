@@ -45,13 +45,13 @@ My favorite colors are
 #### Links to other pages
 [My Favorite Sports Teams](MyFavoriteSportsTeams.md) 
 
-[Things to do in Columbia]()
+[Things to do in Columbia](ThingstodoinColumbia.md)
 
-[Video Games]()
+[Video Games](VideoGames.md)
 
-[Family]()
+[Family](Family.md)
 
-[Clothing]()
+[Clothing](Clothing.md)
 
 
 #### Favorite Websites:
