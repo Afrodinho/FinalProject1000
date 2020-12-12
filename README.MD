@@ -5,34 +5,34 @@
 #### Fun Facts About Me
 I once made a block of code in python. Lets see how it works in Markdown!
 
-def myFunction() :
+    def myFunction() :
     return True
 
-if myFunction() :
+    if myFunction() :
 
-    print('aboutme.py')
-        
-    print('Kaden Marshall')
-        
-    print('I am 22 years old and my birthday is October 22nd')
-        
-    print('I was born in Columbia, MO')
-        
-    print('I am 6 feet 1 inch')
-        
-    print('My favorite sports are soccer, basketball, and baseball')
-        
-    print('I have a Labradoodle named Callie')
-        
-    print('I am using a 15 inch Macbook Pro')
-        
-    print('this is a block of code!')
-    
-else:
+        print('aboutme.py')
 
-    print('this did not work')
+        print('Kaden Marshall')
+
+        print('I am 22 years old and my birthday is October 22nd')
+
+        print('I was born in Columbia, MO')
+
+        print('I am 6 feet 1 inch')
+
+        print('My favorite sports are soccer, basketball, and baseball')
+
+        print('I have a Labradoodle named Callie')
+
+        print('I am using a 15 inch Macbook Pro')
+
+        print('this is a block of code!')
     
-    print('try again')
+    else:
+
+        print('this did not work')
+
+        print('try again')
 
 It doesn't *work* the same here **obviously**. But hopefully you learned something about me.
 
