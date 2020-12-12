@@ -6,7 +6,7 @@ In recent years I have been paying more attention to what I wear. But I am also 
 - [Hot Topic](https://www.hottopic.com)
 - [H&M](https://www2.hm.com/en_us/index.html)
 
-![](https://user-images.githubusercontent.com/54389183/101971517-72910680-3bf7-11eb-9aaa-9b211601af22.jpeg
+![](https://user-images.githubusercontent.com/54389183/101971517-72910680-3bf7-11eb-9aaa-9b211601af22.jpeg)
 
 #### Links to other pages
 [ReadMe/Homepage](README.MD) 
