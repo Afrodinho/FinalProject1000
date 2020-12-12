@@ -43,7 +43,7 @@ My favorite colors are
 
 
 #### Links to other pages
-[My Favorite Sports Teams](link) 
+[My Favorite Sports Teams](MyFavoriteSportsTeams.md) 
 
 [Things to do in Columbia]()
 
