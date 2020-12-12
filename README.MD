@@ -41,6 +41,7 @@ My favorite colors are
 - purple
 - pink
 
+This is my favorite [picture](https://i.ytimg.com/vi/hAq443fhyDo/maxresdefault.jpg) on the internet
 
 #### Links to other pages
 [My Favorite Sports Teams](MyFavoriteSportsTeams.md) 
